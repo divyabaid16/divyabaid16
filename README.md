@@ -53,9 +53,10 @@ I have been working in the software engineering industry for several years, spec
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=divyabaid16&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=divyabaid16&theme=radical&hide_border=false)
-![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyabaid16&show_icons=true&include_all_commits=true&theme=radical) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyabaid16&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 [![](https://visitcount.itsvg.in/api?id=divyabaid16&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
